@@ -9,7 +9,10 @@ This project investigates whether machine learning models (specifically logistic
 The datasets used in this project were obtained from The Cancer Genome Atlas (TCGA):
 
 **1. Gene Expression (RNA-seq) – Batch-effect–normalized mRNA expression data**
-https://xenabrowser.net/datapages/?dataset=EB%2B%2BAdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.xena
+https://xenabrowser.net/datapages/?dataset=EB%2B%2BAdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.xena&host=https%3A%2F%2Fpancanatlas.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443
 
 **2. Phenotype Data – Curated clinical and survival metadata**
-https://xenabrowser.net/datapages/?dataset=Survival_SupplementalTable_S1_20171025_xena_sp
+https://xenabrowser.net/datapages/?dataset=Survival_SupplementalTable_S1_20171025_xena_sp&host=https%3A%2F%2Fpancanatlas.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443
+
+### Acknowledgements
+This project was completed as my midterm project for Professor Tala Talaei Khoei's graduate Machine Learning course at Northeastern University.
